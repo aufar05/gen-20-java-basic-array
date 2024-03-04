@@ -9,9 +9,7 @@ public class ArrayTotalDuaDimensi {
         System.out.print("hasil penjumlahan array 2D kedalam array 1D:");
         System.out.println(Arrays.toString(totalHitungArray2D));
 
-        for (int j : totalHitungArray2D) {
-            System.out.print(j+ " ");
-        }
+
     }
 
 
